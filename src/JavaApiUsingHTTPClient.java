@@ -55,7 +55,7 @@ class JavaApiUsingHTTPClinet{
         }catch (IOException e){
             System.out.println("IOException");
         }catch (InterruptedException e ){
-            System.out.println("Interrupted Exception");
+            System.out.println("Interrupted Exception 123");
         }
     }
 }
